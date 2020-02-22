@@ -1,0 +1,31 @@
+/.idea/
+.gradle
+/build/
+!gradle/wrapper/gradle-wrapper.jar
+/target/
+
+# Default ignored files
+/workspace.xml
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+/out/
+
+
+### Mac OSX ###
+.DS_Store
+/bin/**
+/DO_NOT_COMMIT/
+/bin/
